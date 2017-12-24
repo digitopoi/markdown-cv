@@ -2,90 +2,69 @@
 layout: cv
 title: Isaac Newtons's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Hugh Bowman
+Full-stack .NET Developer
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="hubo85@gmail.com">hubo85@gmail.com</a>
+| <a href="digitopoi.github.io">Portfolio</a>
+| (828)260-3110
 </div>
 
 
-## Currently
+## Technical Skills
 
-Standing on the shoulders of giants
+### Languages
+C#, JavaScript, SQL, Python
 
-### Specialized in
+### Frameworks
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+ASP.NET MVC 5 and Web API 2, ASP.NET Core, Angular 2+, Node.js, Express.js
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2017-2018`
+__Eleven Fifty Academy, Indianapolis, IN__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- 14-week accelerated bootcamp on the .NET track
+- ASP.NET MVC 5, Web API 2, Angular, Agile and Scrum, SQL, UI/UX
 
-- Sizar
+`2010-2013`
+__Appalachian State University, Boone, NC__
+BA Anthropology, minor in Geospatial Sciences
 
-`1667 - death`
-__Trinity College, Cambridge__
+## Projects
 
-- Fellow
+### Parts in Parcels
 
+Ecommerce butcher shop built in ASP.NET MVC 5 with Stripe payment portal
 
+### OneOff
 
-## Awards
+Social networking site connecting touring artists and venues. Built with Web API 2, Angular 5, and Leaflet.js
 
-`2012`
-President, *Royal Society*, London, UK
+### Banking App
 
-Associate, *French Academy of Science*, Paris, France
+Integrated banking application with console ATM and web portal.
 
+### YelpCamp
+Campground review site built with Node.js, Express.js, MongoDB, and Passport.js.
 
+## Professional Experience
 
-## Publications
+`2014 - 2016`
+__Field Archaeologist__ (William and Mary Center for Archaeological Research), Williamsburg, VA
+- Assess archaeological sites for cultural resource management, GIS mapping of survey areas.
+- Data collection, analysis, and interpretation
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
+`2013`
+__Lab Technician__ (Center for Archaeological Investigations), Carbonedale, IL
+- Write, present, and publish reports recording site history, methodology, and artifact analysis. 
+- Cataloging and data entry of artifacts recovered from sites.
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: December 2017 -->
 
 
